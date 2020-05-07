@@ -1,2 +1,2 @@
 # jerry
-just funny
+just for funny
